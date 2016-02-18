@@ -10,7 +10,7 @@ use as sample data in a RESTful webapp.
 
 Install the npm package
 ```shell
-npm install randomuser-export
+npm install randomuser-json-export
 ```
 
 Run the utility
