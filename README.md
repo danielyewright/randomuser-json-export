@@ -18,9 +18,18 @@ Run the utility
 node index.js
 ```
 
-The output JSON file will be in the root of the package directory. By default, the utility only get 20 results from the API.
+The output JSON file will be in the root of the package directory. By default, the file name is `data.json`. Currently, the utility only gets 20 results from the API. To change this, edit the HTTP URL in `index.js`.
+
+```javascript
+https://randomuser.me/api/?nat=us&results=20
+```
+
+Read the [randomuser.me docs](https://randomuser.me/documentation) for more configuration options.
 
 ### Changelog
+
+**1.0.2**
+- Updated module README
 
 **1.0.1**
 - Updated package name
