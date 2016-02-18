@@ -2,6 +2,14 @@
   "name": "randomuser-json-export",
   "version": "1.0.5",
   "description": "Allows the export of specific fields from the randomuser.me API to a JSON file",
+  "keywords": [
+    "json",
+    "randomuser",
+    "export",
+    "random",
+    "api",
+    "data"
+  ],
   "main": "index.js",
   "repository": "danielyewright/randomuser-json-export",
   "scripts": {
