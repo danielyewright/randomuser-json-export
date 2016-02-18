@@ -1,0 +1,17 @@
+{
+  "name": "randomuser-json-export",
+  "version": "1.0.0",
+  "description": "Allows the export of specific fields from the randomuser.me API to a JSON file",
+  "main": "index.js",
+  "repository": "danielyewright/randomuser-export",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bluebird": "~3.1.1",
+    "jsonfile": "^2.2.3",
+    "request-promise": "~2.0.0"
+  },
+  "author": "Daniely Wright <danielywrighte@gmail.com> (http://danielyewright.com)",
+  "license": "MIT"
+}
