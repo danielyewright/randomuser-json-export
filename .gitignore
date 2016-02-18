@@ -2,5 +2,9 @@
 .DS_STORE
 node_modules
 *.json
+*.log
+*.txt
+
+# Exclusions
 !package.json
 !npm-shrinkwrap.json
