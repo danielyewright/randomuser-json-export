@@ -1,9 +1,9 @@
 {
   "name": "randomuser-json-export",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allows the export of specific fields from the randomuser.me API to a JSON file",
   "main": "index.js",
-  "repository": "danielyewright/randomuser-export",
+  "repository": "danielyewright/randomuser-json-export",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
