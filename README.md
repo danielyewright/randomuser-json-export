@@ -16,4 +16,4 @@ Run the utility
 node index.js
 ```
 
-The output JSON file will be in the root of the package directory.
+The output JSON file will be in the root of the package directory. By default, the utility only get 20 results from the API.
